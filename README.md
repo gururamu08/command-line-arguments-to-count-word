@@ -21,8 +21,8 @@ End of the program
 ```
 DEVELOPED BY : GURUMOORTHI R
 REGISTER NUMBER : 22008475
-```
-```
+
+
 import sys
 count = {}
 with open(sys.argv[1], 'r') as f:
